@@ -1,0 +1,8 @@
+{
+    "user": "BronzeCheese",
+    "repo": "vFunc",
+    "dependencies": [
+        "Southclaws/samp-stdlib",
+        "pawn-lang/YSI-Includes"
+    ]
+}

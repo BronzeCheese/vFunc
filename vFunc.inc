@@ -43,7 +43,7 @@ NOTE	This include relies on YSI's y_hooks, which can be found here:
 
 */
 
-#include <YSI\y_hooks>
+#include <YSI_Coding\y_hooks>
 
 /*
 // Fake Natives - Type 'function(' in pawno to show syntax pop-up
